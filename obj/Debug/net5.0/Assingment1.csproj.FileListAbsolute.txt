@@ -1,0 +1,16 @@
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.exe
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.deps.json
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.runtimeconfig.json
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.runtimeconfig.dev.json
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.dll
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\ref\Assingment1.dll
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\bin\Debug\net5.0\Assingment1.pdb
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.csproj.AssemblyReference.cache
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.AssemblyInfoInputs.cache
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.AssemblyInfo.cs
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.csproj.CoreCompileInputs.cache
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.dll
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\ref\Assingment1.dll
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.pdb
+C:\Users\ashux\OneDrive\Documents\psAssingments\Assingment1\Assingment1\obj\Debug\net5.0\Assingment1.genruntimeconfig.cache
