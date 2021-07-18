@@ -11,26 +11,10 @@ namespace ColorCoder{
         public int GetPairNumberFromColor()
         {
             // Find the major color in the array and get the index
-            int majorIndex = -1;
-            for (int i = 0; i < coordinator.colorMapMajor.Length; i++)
-            {
-                if (coordinator.colorMapMajor[i] == pair.majorColor)
-                {
-                    majorIndex = i;
-                    break;
-                }
-            }
-
+            int majorIndex = GetIndex.getColorIndex(coordinator.colorMapMajor , pair.majorColor);
             // Find the minor color in the array and get the index
-            int minorIndex = -1;
-            for (int i = 0; i < coordinator.colorMapMinor.Length; i++)
-            {
-                if (coordinator.colorMapMinor[i] == pair.minorColor)
-                {
-                    minorIndex = i;
-                    break;
-                }
-            }
+            int minorIndex = GetIndex.getColorIndex(coordinator.colorMapMinor , pair.minorColor);
+            
             if (majorIndex == -1 || minorIndex == -1)
             {
                 throw new ArgumentException(
