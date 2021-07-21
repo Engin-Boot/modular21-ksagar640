@@ -16,7 +16,7 @@ namespace ColorCoder{
 	            {
 	                for (int j = 0; j < minor.Length; j++)
 	                {
-	                    sw.WriteLine("Pair Number: {0} ,Colors: major{1} - minor{2} \n", pairnum, major[i], minor[j]);
+	                    sw.WriteLine("Pair Number: {0} ,Colors: major{1} - minor{2}", pairnum, major[i], minor[j]);
 	                    pairnum++;
 	                }
 	            }
